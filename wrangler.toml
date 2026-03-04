@@ -6,7 +6,7 @@ workers_dev = true
 
 [vars]
 # PROXYIP = "211.230.110.231:50008"
-UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
+UUID = "7f9c32a1-e4b5-4d6a-8c9f-2d1e0a9b8c7d"
 # TROJAN_PASSWORD = "your-trojan-password"  # Optional: If not set, UUID will be used as password
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
